@@ -10,7 +10,7 @@ Ferramenta: Claude (Anthropic).
 
 ## O que a equipe fez / revisou
 
-- `<PREENCHER: o que cada integrante revisou, alterou ou validou>`
+- Fui responsável pelo desenvolvimento do código, implementação das funcionalidades, correção de erros e grande parte da revisão e dos testes do projeto.
 - Conferência das recorrências e da complexidade com o conteúdo da disciplina.
 - Execução local de `python -m pytest` e `python desempenho.py`.
 - Definição do bairro, dos pontos de monitoramento e das cotas usadas na demonstração.
