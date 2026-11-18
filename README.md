@@ -7,9 +7,7 @@
 
 | RM | Nome |
 |---|---|
-| `<PREENCHER>` | `<PREENCHER>` |
-| `<PREENCHER>` | `<PREENCHER>` |
-| `<PREENCHER>` | `<PREENCHER>` |
+| 563468 | Eduardo Antonio Delarissia |
 
 Equipe: `<PREENCHER>` · Cidade/bairro: `<PREENCHER>`
 
