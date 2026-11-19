@@ -8,7 +8,7 @@
 | Campo | Informação |
 |---|---|
 | **Nome da CitizenTech** | AlertaCidade |
-| **Cidade e bairro** | **A definir pela equipe** — o módulo utiliza um bairro fictício de demonstração |
+| **Cidade e bairro** | Bela Vista |
 | **Cidadão beneficiado** | Moradores de áreas sujeitas a alagamentos, especialmente quem precisa alcançar um abrigo; agentes comunitários responsáveis por vistorias |
 | **Problema, em uma frase** | Durante alagamentos, moradores precisam encontrar rotas seguras e agentes precisam priorizar vistorias com tempo limitado. |
 | **Como funciona** | Leituras de nível de água classificam trechos como normais, em atenção ou críticos; algoritmos calculam rotas, abrigos alcançáveis e prioridades de vistoria. |
